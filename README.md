@@ -63,10 +63,6 @@ The app will run on `http://localhost:5000`.
 4. Push to the branch (`git push origin feature/your-feature-name`).
 5. Open a pull request to merge your changes into the main branch.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 * NLP libraries like `spaCy` and `NLTK` for text processing and analysis.
